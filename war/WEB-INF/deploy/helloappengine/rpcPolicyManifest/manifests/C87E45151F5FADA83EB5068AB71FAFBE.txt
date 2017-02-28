@@ -1,0 +1,2 @@
+serviceClass: g09.com.example.appengine.client.GreetingService
+path: A7F0B897F490BCADB6AFA4F4CCD1D8D5.gwt.rpc

@@ -1,0 +1,3 @@
+# Module helloappengine
+# RPC service class, partial path of RPC policy file
+g09.com.example.appengine.client.GreetingService, A7F0B897F490BCADB6AFA4F4CCD1D8D5.gwt.rpc
